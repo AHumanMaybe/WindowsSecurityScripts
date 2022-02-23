@@ -1,5 +1,5 @@
 ::####################################################################################
-::Windows Serivce Managment Script for CyberCrustaceans CyberPatriot Team
+::Windows Serivce Managment Script for CyberCrustaceans Team
 ::####################################################################################
 
 echo CHECK README FOR CRITICAL SERVICES BEFORE CONTINUING WITH SCRIPT
