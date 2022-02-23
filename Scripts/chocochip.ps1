@@ -1,6 +1,6 @@
 ############################################################################################
                                 #Chocolatey Script
-                                #Made for Cybercrustaceans CyberPatriot team
+                                #Made for Cybercrustaceans
                                 #Made for Windows systems
 ############################################################################################
 cls;
