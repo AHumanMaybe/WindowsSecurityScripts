@@ -1,6 +1,5 @@
 # WindowsSecurityScripts
 This Project has Scripts aimed at making Windows 10 and Windows Server systems more secure
-These scripts were made with the intention to secure Windows systems for the CyberPatriot Competition
 
 These were all created for the CyberCrustaceans team
 
