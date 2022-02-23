@@ -1,8 +1,5 @@
 ::####################################################################################
 ::Windows Serivce Managment Script for CyberCrustaceans CyberPatriot Team
-::Anthony Perry
-::01/24/2022
-::P-3 Advanced Computer Studies
 ::####################################################################################
 
 echo CHECK README FOR CRITICAL SERVICES BEFORE CONTINUING WITH SCRIPT
