@@ -35,7 +35,7 @@ Requires run as Administrator
 
 Batch script designed to manage Windows Services
 
-Services script is deisnged to configure most default windows services and sets them to either Disabled, Manual, or Automatic based on CyberPatriot guidelines
+Services script is deisnged to configure most default windows services and sets them to either Disabled, Manual, or Automatic based on AFA guidelines found to be used in their CyberPatriot competition
 
 # ChocoChip.ps1
 
