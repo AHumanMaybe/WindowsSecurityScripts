@@ -23,11 +23,11 @@ Requires run as Administrator
 
 Batch script designed to provide complete Windows security
 
-FatBoy is over 1200 lines long with optional commented out settings for further security
+FatMan is over 1200 lines long with optional commented out settings for further security
 
-FatBoy configures settings for the Windows Registry, SecPol, GPEdit, Windows Auto Updates, BitLocker, Password Policies, Account Policies, User Rights Assignments, and much more
+FatMan configures settings for the Windows Registry, SecPol, GPEdit, Windows Auto Updates, BitLocker, Password Policies, Account Policies, User Rights Assignments, and much more
 
-FatBoy will have multiple prompts for Y/N as well as many instructions and in-script reminders to check specific settings prior to running
+FatMan will have multiple prompts for Y/N as well as many instructions and in-script reminders to check specific settings prior to running
 
 # Services.bat
 
